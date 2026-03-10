@@ -41,7 +41,7 @@ html, body, [class*="css"] {
 h1, h2, h3 { font-family: 'Syne', sans-serif; font-weight: 800; }
 
 .glass-card {
-    background: rgba(255,255,255,0.04);
+    background: rgba(255,215,255,0.04);
     border: 1px solid rgba(99,179,237,0.2);
     border-radius: 16px;
     padding: 20px 24px;
