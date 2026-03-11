@@ -31,7 +31,7 @@ from gps_core import GPSSimulator, monte_carlo_simulation, ReceiverPosition
 
 # ─── Page Config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="GPS & DGPS Simulator",
+    page_title="GPS & DGPS Simulator Developed by DM",
     page_icon="🛰️",
     layout="wide",
     initial_sidebar_state="expanded",
